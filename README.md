@@ -8,6 +8,6 @@ Tugas Akhir OS Server Web Server
 # Web Server
 Using nginx, php, mariadb, cerbot, filezila 
 
-*** Install Nginx on Ubuntu 22.04 ***
+*** Step 1 Install Nginx on Ubuntu 22.04 ***
 
 
