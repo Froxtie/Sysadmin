@@ -4,7 +4,7 @@ Tugas Akhir OS Server Web Server
 # Progress
 - 16/10/2023 Instal Ubuntu 22.04
 - 16/10/2023 Instal Nginx
-- 16/10/2023 Instal PHP
+- 19/10/2023 Instal PHP
 
 # Web Server 
 *** Install nginx di ubuntu 22.04 ***
