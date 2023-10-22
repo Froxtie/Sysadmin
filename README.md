@@ -15,6 +15,8 @@ Tugas Akhir OS Server Web Server
 - systemctl status nginx
 - curl -4 icanhazip.com // Ini akan memberikan ip address
 
+*** Instal PHP ***
+
 
 
 
