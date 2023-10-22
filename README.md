@@ -1,5 +1,5 @@
 # Sysadmim
- Tugas Akhir OS Server Web Server
+Tugas Akhir OS Server Web Server
 #Progress
 16/10/2023 OS : Ubuntu 22.04
 # SSH Server
