@@ -9,8 +9,8 @@ Tugas Akhir OS Server Web Server
 *** Install nginx di ubuntu 22.04 ***
 
 Step 1 - Install Nginx
-- $ sudo apt update
-- $ sudo apt install nginx
+-$ sudo apt update
+-$ sudo apt install nginx
 
 Step 2 - Menyesuaikan firewall
 - $ sudo ufw app list
