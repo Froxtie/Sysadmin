@@ -1,6 +1,10 @@
 # Sysadmin
 Final Project OS Server Web Server
 
+# Device
+- Laptop
+- Virtual Machine
+- Ubuntu 22.04
 
 # Progress
 - 16/10/2023 Install Ubuntu 22.04
