@@ -1,19 +1,16 @@
-# Sysadmim
-'''sh
+# Sysadmin
 Final Project OS Server Web Server
 
 
 # Progress
 - 16/10/2023 Install Ubuntu 22.04
-- 16/10/2023 Install Nginx, MariaDB dan, PHP
+- 16/10/2023 Install Nginx, MariaDB, dan PHP
+- 23/10/2023 Install WordPress 
 
 
-# Web Server 
-*** Install nginx di ubuntu 22.04 ***
-
-Step 1 - Install Nginx
+Step 1 - Install Nginx, MariaDB, dan PHP
 - $ sudo apt update
-- $ sudo apt install nginx
+- $ sudo apt install nginx mariadb-server php php-fpm php-curl php-mysql php-gd php-mbstring php-xml php-imagick php-zip php-xmlrpc
 
 Step 2 - Menyesuaikan firewall
 - $ sudo ufw app list
