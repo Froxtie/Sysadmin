@@ -1,10 +1,11 @@
 # Sysadmim
-Tugas Akhir OS Server Web Server
+'''sh Final Project OS Server Web Server '''
+
 
 # Progress
-- 16/10/2023 Instal Ubuntu 22.04
-- 16/10/2023 Instal Nginx
-- 19/10/2023 Instal PHP
+- 16/10/2023 Install Ubuntu 22.04
+- 16/10/2023 Install Nginx, MariaDB dan, PHP
+
 
 # Web Server 
 *** Install nginx di ubuntu 22.04 ***
