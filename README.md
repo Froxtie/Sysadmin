@@ -1,7 +1,7 @@
 # Sysadmin
 Final Project OS Server Web Server
 
-# Device
+# Machine
 - Laptop
 - Virtual Machine
 - Ubuntu 22.04
